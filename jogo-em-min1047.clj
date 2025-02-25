@@ -1,4 +1,3 @@
-(ns projetos-clojure.jogoEmMin1047)
 (def h1 (read))
 (def m1 (read))
 (def h2 (read))
